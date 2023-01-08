@@ -15,4 +15,20 @@ I have utilized some very basic GUI elements such as JButtons and JFrame to give
 ## Content
 Content of the project folder:
 
+```
+ Top level of project folder: 
+├── .settings
+├── src                          # source code folder containing all java programs
+├── .classpath                   
+├── .gitignore                   # files ignored by git version control
+├── .project        
+├── README.md                    # information on the project
 
+It has the following subfolders and files:
+
+├── personal/project             # folder containing all source code and classes
+    /Cell.java
+    /Game.java
+    /Grid.java
+    /Handler.java
+    /Window.java
