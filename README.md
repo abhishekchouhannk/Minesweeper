@@ -26,7 +26,7 @@ Content of the project folder:
 
 It has the following subfolders and files:
 
-├── personal/project             # folder containing all source code and classes
+├── src/personal/project             # folder containing all source code and classes
     /Cell.java
     /Game.java
     /Grid.java
